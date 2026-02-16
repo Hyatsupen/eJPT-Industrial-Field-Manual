@@ -1,7 +1,7 @@
 ---
 creado: 2026-02-16 18:11
 tags:
-  - estado/borrador
+
   - tipo/apunte
   - ejpt
   - infraestructure
@@ -11,17 +11,10 @@ tags:
   - recon
 asignatura:
 ---
-### Archivo 1: `03_Network_Infrastructure_Services.md`
-
-_Fusión de SSH, SMTP y Port Scanning con Metasploit. Son los cimientos de la administración remota._
 
 Markdown
 
 ````
-# 🔌 Network Infrastructure Enumeration (SSH & SMTP)
-
-**Scope:** Servicios de infraestructura y gestión remota.
-**Vector:** Fuerza bruta y enumeración de usuarios.
 
 ---
 
@@ -130,11 +123,6 @@ run
 ### Archivo 2: `04_Database_Hunting_MySQL.md`
 *Fusión de toda tu enumeración de MySQL. Enfoque: Extracción de datos.*
 
-```markdown
-# 🗄️ Database Hunting: MySQL
-
-**Protocol:** TCP/3306 (Default).
-**Objective:** Exfiltración de datos, hashes de usuarios y ejecución de comandos.
 
 ---
 
