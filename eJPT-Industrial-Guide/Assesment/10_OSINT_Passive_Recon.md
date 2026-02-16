@@ -123,17 +123,6 @@ site:target.com intitle:"index of" "backup"
 
 ---
 
-### Archivo 2: `02_Active_Discovery_Nmap.md`
-*Fusión de tus notas de Nmap, Ping Sweep y Evasión de Firewall. He corregido el comando MTU y añadido la sección OT.*
-
-```markdown
-# ⚔️ Active Reconnaissance & Nmap Methodology
-
-**Scope:** Interacción directa con los puertos y servicios del objetivo.
-**Warning:** Esta fase genera ruido en los logs. Ajustar `Timing Templates` según el entorno.
-
----
-
 ## 1. Host Discovery (Ping Sweep)
 
 Identificar activos vivos sin escanear puertos (ahorro de tiempo).
